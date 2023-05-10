@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8a35c4d3-3bb6-4779-94f6-7c4912421bda" name="TMS">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="tms.astu.edu.et" port="22" sshConfigId="36629132-7dfd-4095-9912-bda3436649e1" sshConfig="tmsuser@tms.astu.edu.et:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
